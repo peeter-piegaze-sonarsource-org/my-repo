@@ -2,3 +2,5 @@
 Example repository
 
 More changes
+
+New branch!
